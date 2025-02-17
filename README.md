@@ -39,6 +39,12 @@ Adjust the target date using a tool like dconf-editor:
 
   Format: `YYYY-MM-DD`
 
+  Set the target date using GSettings. For example, run:
+
+  ```bash
+  gsettings set org.gnome.shell.extensions.countdown target-date "2025-12-31"
+  ```
+
 ## Development
 
 - Files:
