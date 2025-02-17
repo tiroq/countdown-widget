@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.countdown" path="/org/gnome/shell/extensions/countdown/">
+    <key name="target-date" type="s">
+      <default>'2025-01-01'</default>
+      <summary>Target Date</summary>
+      <description>Date in YYYY-MM-DD format for the countdown.</description>
+    </key>
+  </schema>
+</schemalist>
