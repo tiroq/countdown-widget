@@ -13,6 +13,7 @@ A GNOME Shell extension for Ubuntu that displays a countdown to a target date, c
   ```bash
   git clone https://github.com/yourusername/countdown-widget.git
   cd countdown-widget
+  ```
 
 2. **Run the Installer**
 
