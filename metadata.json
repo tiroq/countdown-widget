@@ -1,0 +1,7 @@
+{
+  "uuid": "countdown@widget",
+  "name": "Countdown Widget",
+  "description": "Counts days until a specified date.",
+  "shell-version": ["3.36", "3.38", "40", "41", "42"],
+  "version": 1
+}
